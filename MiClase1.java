@@ -5,6 +5,10 @@ public class MiClase1
         for(int i = 0; i <= 10; i++)
         {
             System.out.println("12 * "+ i + " = " + 12 * i + "\n");
+            
         }
+        {System.out.println("Hola Mundo");}
+        {System.out.println("¿Cómo estás?");}
+        
     }
 }
